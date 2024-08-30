@@ -1,4 +1,4 @@
-## Monitor de criptomonedas
+## CryptoMonitor (Monitor de criptomonedas)
 
 La aplicación gráfica (GUI) está hecha en Python/tkinter y permite realizar un seguimiento en tiempo real de un conjunto de criptomonedas presentes en una cartera de inversión. La interface se muestra a continuación.
 
